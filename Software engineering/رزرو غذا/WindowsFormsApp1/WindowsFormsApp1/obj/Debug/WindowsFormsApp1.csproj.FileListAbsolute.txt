@@ -1,0 +1,16 @@
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.singup.resources
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.information.resources
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sabt.resources
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\reservfood.accdb
+D:\احمد زاده\رزرو غذا\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.list.resources
