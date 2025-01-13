@@ -66,7 +66,8 @@
               "RelativeToolTip": "WindowsFormsApp1\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T09:38:06.546Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -79,7 +80,8 @@
               "ViewState": "AgIAAG8AAAAAAAAAAAD4v3YAAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T10:01:46.262Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +105,8 @@
               "RelativeToolTip": "WindowsFormsApp1\\list.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAjwB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T08:43:20.108Z"
+              "WhenOpened": "2025-01-12T08:43:20.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +118,8 @@
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:52:07.616Z"
+              "WhenOpened": "2024-12-11T08:52:07.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,7 +130,8 @@
               "ToolTip": "D:\\\u0627\u062D\u0645\u062F \u0632\u0627\u062F\u0647\\\u0631\u0632\u0631\u0648 \u063A\u0630\u0627\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:46:53.402Z"
+              "WhenOpened": "2024-12-11T08:46:53.402Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -137,7 +142,8 @@
               "ToolTip": "D:\\\u0627\u062D\u0645\u062F \u0632\u0627\u062F\u0647\\\u0631\u0632\u0631\u0648 \u063A\u0630\u0627\\WindowsFormsApp1\\WindowsFormsApp1\\singup.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\singup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:52:03.911Z"
+              "WhenOpened": "2024-12-11T08:52:03.911Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -161,7 +167,8 @@
               "RelativeToolTip": "WindowsFormsApp1\\singup.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAhwGQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:55:31.545Z"
+              "WhenOpened": "2024-12-11T08:55:31.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -172,7 +179,8 @@
               "ToolTip": "D:\\\u0627\u062D\u0645\u062F \u0632\u0627\u062F\u0647\\\u0631\u0632\u0631\u0648 \u063A\u0630\u0627\\WindowsFormsApp1\\WindowsFormsApp1\\list.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\list.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:02:24.399Z"
+              "WhenOpened": "2024-12-11T10:02:24.399Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -184,7 +192,8 @@
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:03:12.668Z"
+              "WhenOpened": "2025-01-07T13:03:12.668Z",
+              "EditorCaption": ""
             }
           ]
         }
